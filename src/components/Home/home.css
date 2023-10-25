@@ -1,0 +1,7 @@
+.home_image {
+    background-image: linear-gradient(#000000, #00000029), url(../../assets/hero.jpg);
+    height: 140vh;
+    background-position: center;
+    background-size: cover;
+    /* margin-top: -30px; */
+  }
